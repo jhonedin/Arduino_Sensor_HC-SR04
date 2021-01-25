@@ -1,3 +1,10 @@
+/*
+ * Author: JHON EDINSON BLANDON
+ * Anio: 2021
+ * Descripción:
+ * Programa para el manejo basico del sensor ultrasonico referencia HC-SR04 con Arduino en pantalla se muestra la distancia a la que esta un objeto
+ */
+
 #define echoPin 3
 #define triggerPin 2
 #define ledPin 13
